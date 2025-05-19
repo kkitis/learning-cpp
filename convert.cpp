@@ -2,7 +2,7 @@
 using namespace std;
 int main (){
     int num,ans=0;
-    cout<<"enter number:";
+    cout<<"enter decimal number:";
     cin>>num;
     int pow=1;
     while (num>0)
